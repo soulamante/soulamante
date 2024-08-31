@@ -1,4 +1,5 @@
 ## Hi there 👋
+- ⚡ Fun fact: I dunno what am doing.
 
 <!--
 **soulamante/soulamante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
